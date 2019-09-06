@@ -1,0 +1,17 @@
+{
+  "name": "prettifyJson",
+  "version": "1.0.0",
+  "description": "prettify JSON formatted-file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Kangmin Choi <kmchoi0703@gmail.com> (https://kangminchoi.github.io/)",
+  "license": "MIT License",
+  "dependencies": {
+    "commander": "^3.0.1"
+  }
+}
