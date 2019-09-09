@@ -2,9 +2,9 @@
   "name": "prettifyJson",
   "version": "1.0.0",
   "description": "prettify JSON formatted-file",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "keywords": [
     "json"
